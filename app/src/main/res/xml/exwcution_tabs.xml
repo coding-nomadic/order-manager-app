@@ -1,0 +1,22 @@
+<tabs>
+    <tab
+        id="@+id/orderdetails_tab"
+        icon="@drawable/ic_today_black_24dp"
+        title="order details"
+        barColorWhenSelected="#fffffff" />
+    <tab
+        id="@+id/taskdetails_tab"
+        icon="@drawable/ic_inbox_black_24dp"
+        title="task details"
+        barColorWhenSelected="#fffffff" />
+    <tab
+        id="@+id/orderitemdetails_tab"
+        icon="@drawable/ic_description_black_24dp"
+        title="orderitems"
+        barColorWhenSelected="#fffffff" />
+    <tab
+        id="@+id/assigntasks_tab"
+        icon="@drawable/ic_touch_app_black_24dp"
+        title="assign tasks"
+        barColorWhenSelected="#fffffff" />
+</tabs>

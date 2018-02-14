@@ -1,0 +1,17 @@
+<tabs>
+    <tab
+        id="@+id/start"
+        icon="@drawable/ic_check_circle_black_24dp"
+        title="start server"
+        barColorWhenSelected="#fffffff" />
+    <tab
+        id="@+id/stop"
+        icon="@drawable/ic_block_black_24dp"
+        title="stop server"
+        barColorWhenSelected="#fffffff" />
+    <tab
+        id="@+id/cleanrestart"
+        icon="@drawable/ic_loop_black_24dp"
+        title="clean restart"
+        barColorWhenSelected="#fffffff" />
+</tabs>

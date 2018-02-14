@@ -1,0 +1,17 @@
+<tabs>
+    <tab
+        id="@+id/cancel"
+        icon="@drawable/ic_low_priority_black_24dp"
+        title="cancel order"
+        barColorWhenSelected="#fffffff" />
+    <tab
+        id="@+id/orderstats"
+        icon="@drawable/ic_check_circle_black_24dp"
+        title="order status"
+        barColorWhenSelected="#fffffff" />
+    <tab
+        id="@+id/force"
+        icon="@drawable/ic_do_not_disturb_off_black_24dp"
+        title="force close"
+        barColorWhenSelected="#fffffff" />
+</tabs>

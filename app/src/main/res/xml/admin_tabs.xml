@@ -1,0 +1,22 @@
+<tabs>
+    <tab
+        id="@+id/cancel"
+        icon="@drawable/servers"
+        title="Cancel Order"
+        barColorWhenSelected="#fffffff" />
+    <tab
+        id="@+id/orderstats"
+        icon="@drawable/notification"
+        title="Status"
+        barColorWhenSelected="#fffffff" />
+    <tab
+        id="@+id/force"
+        icon="@drawable/orderstatus"
+        title="Force Close"
+        barColorWhenSelected="#fffffff" />
+    <tab
+        id="@+id/subscribe"
+        icon="@drawable/operations"
+        title="Subscribe Order"
+        barColorWhenSelected="#fffffff" />
+</tabs>

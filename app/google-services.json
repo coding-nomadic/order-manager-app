@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "858151464029",
+    "firebase_url": "https://om-initiator.firebaseio.com",
+    "project_id": "om-initiator",
+    "storage_bucket": "om-initiator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858151464029:android:da4dc787d8abdf3e",
+        "android_client_info": {
+          "package_name": "com.example.tenzind.ominitiator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858151464029-rr1pbffthl76ds3c680grlq98rba51gj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAygfJ-4MSime4PN2hd1I7G7Jt4B0pqQKo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

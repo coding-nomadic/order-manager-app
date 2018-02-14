@@ -1,0 +1,22 @@
+<tabs>
+    <tab
+        id="@+id/servers"
+        icon="@drawable/ic_group_black_24dp"
+        title="admin server"
+        barColorWhenSelected="#fffffff"/>
+    <!--<tab
+        id="@+id/order_list"
+        icon="@drawable/ic_today_black_24dp"
+        title="orders"
+        barColorWhenSelected="#fffffff" />-->
+    <tab
+        id="@+id/orders"
+        icon="@drawable/ic_content_paste_black_24dp"
+        title="order operations"
+        barColorWhenSelected="#fffffff"/>
+    <tab
+        id="@+id/tasks"
+        icon="@drawable/ic_playlist_add_check_black_24dp"
+        title="execution details"
+        barColorWhenSelected="#fffffff"/>
+</tabs>
