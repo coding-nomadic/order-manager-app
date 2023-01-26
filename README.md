@@ -7,11 +7,9 @@ Technology stacks used-
 ```
 Android Java code
 
-Calls REST APIs written in Spring Boot
+Firebase Messaging for Order Notification.
 
-Sends notification to Firebase Messaging
-
-Android libraries used for bottom bar
+Bottom Bar android library
 
 ```
 
